@@ -162,7 +162,7 @@ function HomeScreen({ onSelect, dark, toggleDark, progress }) {
             <div style={{ position: 'absolute', top: -12, right: -16, left: -16, bottom: -12,
               border: `1px solid ${GOLD}20`, borderRadius: 20, pointerEvents: 'none' }} />
             <h1 className="jahan-text" style={{ fontSize: 52, fontWeight: 700, letterSpacing: 2, lineHeight: 1 }}>
-              جهان
+              صفوة
             </h1>
           </div>
           <p style={{ color: 'rgba(255,255,255,.5)', fontSize: 12, letterSpacing: '.06em', marginBottom: 4, marginTop: 10 }}>
