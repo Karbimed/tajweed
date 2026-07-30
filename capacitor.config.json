@@ -1,0 +1,9 @@
+{
+  "appId": "com.tajweed.app",
+  "appName": "أحكام التجويد",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
