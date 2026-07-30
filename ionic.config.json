@@ -1,0 +1,7 @@
+{
+  "name": "tajweed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
